@@ -1,7 +1,3 @@
-# Frontend Mentor - Product preview card component
-
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -14,10 +10,10 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Посилання на челлендж 👇
+Посилання на челлендж 👉
 https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
-Те, шо повинно було війти по завданню 👇
+Те, шо повинно було війти по завданню 👉
 https://prnt.sc/xbaVoDlC5XKP
 
 Опис завдання 👇
